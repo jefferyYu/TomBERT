@@ -1,6 +1,6 @@
 # TomBERT
 Dataset for our IJCAI 2019 paper "Adapting BERT for Target-Oriented Multimodal Sentiment Classification"
-
+https://www.ijcai.org/proceedings/2019/0751.pdf
 
 ## Paper:
 Adapting BERT for Target-Oriented Multimodal Sentiment Classification. Jianfei Yu and Jing Jiang. IJCAI 2019.
