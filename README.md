@@ -1,4 +1,6 @@
-# Adapting BERT for Target-Oriented Multimodal Sentiment Classification
+# TomBERT
+
+## Adapting BERT for Target-Oriented Multimodal Sentiment Classification
 - Dataset and codes for our IJCAI 2019 paper "Adapting BERT for Target-Oriented Multimodal Sentiment Classification"
 https://www.ijcai.org/proceedings/2019/0751.pdf
 
