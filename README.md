@@ -68,3 +68,6 @@ sh run_classifier.sh
 - You can download the BERT and TomBERT models trained by me. You can find the results we report in our paper from the "eval_result" files.
 https://drive.google.com/open?id=1e3rL3G1ojaDWZnrkmZX-uLudPbQo7tVe
 
+## Acknowledgements
+
+- Most of the codes are based on the codes provided by huggingface: https://github.com/huggingface/transformers.
